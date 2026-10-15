@@ -6,9 +6,9 @@
 
 A personal blog for code, ideas, and everyday life. Built with Astro 7.3, Vue 3, Tailwind CSS 4, and TypeScript 6, with an illustrated hero, rounded cards, and gentle waves.
 
-![Kanade desktop homepage; preview uses Chinese](docs/images/home.png)
+![Kanade desktop homepage in English](docs/images/home.en.png)
 
-![Colorful guestbook; notes shown are examples](docs/images/message-wall.png)
+![Colorful guestbook in English; notes shown are examples](docs/images/message-wall.en.png)
 
 ## Features
 

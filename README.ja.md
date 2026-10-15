@@ -6,9 +6,9 @@
 
 コード、思いつき、日々の出来事を記録する個人ブログです。Astro 7.3、Vue 3、Tailwind CSS 4、TypeScript 6 を使い、イラスト付きのヘッダー、角丸のカード、やわらかな波を組み合わせています。
 
-![デスクトップのホーム画面。プレビューは中国語です](docs/images/home.png)
+![日本語版のデスクトップホーム画面](docs/images/home.ja.png)
 
-![色付きのメッセージボード。掲載されたメモは表示例です](docs/images/message-wall.png)
+![日本語版の色付きメッセージボード。掲載されたメモは表示例です](docs/images/message-wall.ja.png)
 
 ## 主な機能
 
