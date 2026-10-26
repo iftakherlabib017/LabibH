@@ -1,7 +1,7 @@
 {
   "language": "en",
   "site": {
-    "name": "HELP",
+    "name": "Kanade",
     "logoText": "Kanade",
     "favicon": "/favicon.svg",
     "keywords": {
@@ -64,8 +64,8 @@
       "url": "/rss.xml"
     },
     {
-      "name": "LABIB",
-      "label": "LABIB.HELP",
+      "name": "Guestbook",
+      "label": "common.guestbook",
       "icon": "icon-[lucide--mail]",
       "url": "/messages/"
     }
