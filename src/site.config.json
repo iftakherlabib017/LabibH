@@ -1,7 +1,7 @@
 {
   "language": "en",
   "site": {
-    "name": "Kanade",
+    "name": "HELP",
     "logoText": "Kanade",
     "favicon": "/favicon.svg",
     "keywords": {
@@ -18,7 +18,7 @@
   },
   "author": {
     "name": {
-      "zh-CN": "苏多莉亚",
+      "en": "苏多莉亚",
       "en": "Sudoria",
       "ja": "スドリア"
     },
@@ -64,8 +64,8 @@
       "url": "/rss.xml"
     },
     {
-      "name": "Guestbook",
-      "label": "common.guestbook",
+      "name": "LABIB",
+      "label": "LABIB.HELP",
       "icon": "icon-[lucide--mail]",
       "url": "/messages/"
     }
