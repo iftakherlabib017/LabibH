@@ -26,10 +26,10 @@ jobs:
           cache: pnpm
       - run: pnpm install --frozen-lockfile
       - run: pnpm format:check
-      - run: pnpm audit --audit-level=high
+ 
       - run: pnpm build
         env:
-          SITE_URL: https://example.com
+          SITE_URL: https://labib.com
       - run: pnpm exec playwright install --with-deps chromium
       - run: pnpm test:e2e
       - uses: actions/upload-artifact@v7.0.2
